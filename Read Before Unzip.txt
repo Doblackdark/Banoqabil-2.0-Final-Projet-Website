@@ -1,0 +1,3 @@
+1.unzip files.
+2.Run app.py and copy the website ip adress.
+3.Open browser and paste copy ip address and hit enter.
